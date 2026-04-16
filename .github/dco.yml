@@ -1,5 +1,7 @@
 allowRemediationCommits:
   individual: true
 
+allowOverrideAction: true
+
 require:
   members: false
